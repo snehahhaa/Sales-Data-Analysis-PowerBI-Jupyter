@@ -55,6 +55,10 @@ The Power BI dashboard includes:
 - Bar Charts: Sales by City, Monthly Sales  
 - Line Chart: Orders by Hour  
 - Bar Chart: Product Sales (Quantity)
+- 
+## 📊 Dashboard Preview
+
+![Sales Dashboard] (Analysis.png)
 
 ## What You Can Learn from This Project
 
